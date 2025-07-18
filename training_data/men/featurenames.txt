@@ -1,0 +1,1 @@
+'age', 'diff_pitch', 'mean_f0', 'stdev_f0', 'hnr', 'jitter', 'shimmer', 'zero_crossing_rate', 'shannon_entropy', 'skewness', 'spectral_flatness', 'spectral_rolloff', 'spectral_centroid', 'spectral_contrast1', 'spectral_contrast2', 'spectral_contrast3', 'spectral_contrast4', 'spectral_contrast5', 'spectral_contrast6', 'spectral_contrast7', 'nan'
